@@ -1,4 +1,3 @@
-import "./Loading.css";
 import { PacmanLoader } from "react-spinners";
 
 const Loading = ({ isLoading }) => {
