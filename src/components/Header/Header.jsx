@@ -8,7 +8,7 @@ const Header = () => {
                 <PiChefHatBold />
             </IconContext.Provider>
 
-            <h1>Chef Claude</h1>
+            <h1>Chef Mixtral</h1>
         </header>
     );
 };
