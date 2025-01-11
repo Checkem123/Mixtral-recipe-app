@@ -1,0 +1,18 @@
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+    border-bottom: 2px solid #ebe8ea;
+    box-shadow: 0px 0px 4px ebe8ea;
+    padding: 16px 0;
+}
+
+header .chef_hat {
+    font-size: 50px;
+}
+
+header h1 {
+    font-size: 32px;
+    font-weight: 400;
+}

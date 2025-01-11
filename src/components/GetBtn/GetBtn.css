@@ -1,0 +1,37 @@
+.get_recipe_section {
+    margin-top: 40px;
+    border-radius: 4px;
+    padding: 38px;
+    background-color: #f0efeb;
+    display: flex;
+    align-items: center;
+}
+
+.get_recipe_section h3 {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.get_recipe_section p {
+    margin-top: 8px;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.get_recipe_section button {
+    border: 0;
+    border-radius: 6px;
+    padding: 10px 20px;
+    background-color: #d97706;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 500;
+    cursor: pointer;
+    margin-left: auto;
+    transition: 0.5s;
+}
+
+.get_recipe_section button:hover {
+    transition: 0.5s;
+    background-color: #b45309;
+}
